@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import nerd from '../../Assets/nerd.gif';
+import nerd from '../../assets/nerd.gif';
 
 const Header = () => {
   return (
