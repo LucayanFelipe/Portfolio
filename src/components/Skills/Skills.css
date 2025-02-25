@@ -1,0 +1,20 @@
+.skills {
+    margin-top: 1rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: #1e1e1e;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #2ecc71;
+    color: white;
+    border-radius: 5px;
+  }

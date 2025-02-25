@@ -1,0 +1,11 @@
+.contact {
+    margin-top: 1rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: black;
+  }
+  
+  .contact a {
+    color: #3498db;
+    text-decoration: none;
+  }

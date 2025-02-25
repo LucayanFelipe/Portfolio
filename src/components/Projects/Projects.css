@@ -1,0 +1,20 @@
+.projects {
+    margin-top: 1rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: #1e1e1e;
+  }
+  
+  .project-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .project {
+    background-color: #f1c40f;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+    width: 30%;
+  }
